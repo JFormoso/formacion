@@ -34,7 +34,7 @@ life_cycle: ''
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/JFormoso/formacion-para-ense-ar/'
+source: 'https://github.com/JFormoso/formacion/'
 
 # Default branch of your lesson
 branch: 'main'
@@ -66,7 +66,7 @@ contact: 'infraestructura@metadocencia.org'
 
 # Order of episodes in your lesson
 episodes: 
-- introduccion-personas.Rmd
+- introduction.Rmd
 
 
 # Information for Learners
