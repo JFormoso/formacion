@@ -1,5 +1,5 @@
 ---
-title: 'Aprendizaje'
+title: 'Aprendizaje activo y estrategias'
 teaching: 10
 exercises: 2
 ---
@@ -25,6 +25,7 @@ exercises: 2
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Aprendizaje
+
 ### Dos Formas de Aprender
 
 |                         |                          |
@@ -55,14 +56,9 @@ Probablemente no sea sorprendente que los resultados del aprendizaje activo supe
 
 Por ejemplo, este gráfico muestra una reducción en las tasas de fracaso en las clases STEM (de [Active learning increases student performance in science, engineering, and mathematics](http://www.pnas.org/content/111/23/8410.full.pdf)) en un metaanálisis de 225 reportes sobre resultados de exámenes o tasas de desaprobación. En el eje X se presenta el porcentaje de estudiantes que desaprueban. La densidad promedio de estudiantes que desaprueban con aprendizaje por disertación es 33.8%. La densidad de estudiantes que desaprueban con clases de tipo activo es de 21.8%.
 
-::::::::::::::::::::::::::::::::::::: instructor
-**mejorar**
-(Ojo, sin embargo, los estudiantes informan que prefieren el aprendizaje pasivo, aunque el aprendizaje activo funciona mejor (https://www.pnas.org/content/116/39/19251))
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 Tenemos ciencia cognitiva para explicar por qué el aprendizaje activo es mejor.
 
-![](fig/aprendizaje-activo-grafico5.png){alt="Gráfico que muestra que en clases con aprendizaje activo la mayoría de los cursos tienen ≈ 15-25 % de desaprobados, mientras que en clases expositivas la cifra sube a ≈ 30-50 %. En promedio, el enfoque activo reduce la tasa de fracaso del 34 % al 23 %.."}
+![](fig/aprendizaje-activo-grafico.png){alt="Gráfico que muestra que en clases con aprendizaje activo la mayoría de los cursos tienen ≈ 15-25 % de desaprobados, mientras que en clases expositivas la cifra sube a ≈ 30-50%. En promedio, el enfoque activo reduce la tasa de fracaso del 34 % al 23 %."}
 
 Volvamos a nuestro modelo simplificado de arquitectura cognitiva para entender por qué. Teníamos dos tipos de memoria, una a corto plazo y otra a largo plazo.
 
@@ -72,15 +68,62 @@ Cuanto más tiempo permanezca algo en la memoria a corto plazo, mayores serán l
 
 Del mismo modo, cuanto más práctica tenga la gente para recuperar información, más enlaces se formarán en su modelo mental y más fuertes serán esos enlaces. Hacer que recuerden la información y la usen, por lo tanto, también aumenta el aprendizaje.
 
-## Seis estrategias
+## PRIMM: un patrón de aprendizaje activo en programación
 
-Existen seis estrategias que nuestros estudiantes y nosotros podemos usar para aprovechar todo esto, y así aprender más rápido y mejor. El mejor resumen proviene del sitio web de [The Learning Scientists](http://www.learningscientists.org/). 
+En la enseñanza de la programación, un error frecuente es pedir a las y los estudiantes que escriban código antes de poder leerlo y comprenderlo. Sin embargo, la investigación en educación en computación muestra de forma consistente que la comprensión de código precede al diseño y la escritura efectiva: las personas que recién empiezan necesitan primero desarrollar modelos mentales de cómo funciona un programa antes de poder crearlo por sí mismas. 
 
-Las revisaremos una por una:
+PRIMM es un patrón de enseñanza diseñado específicamente para abordar este problema. Su nombre proviene de las cinco fases que estructuran una secuencia de aprendizaje:
+
+**Predecir** – **Ejecutar (Run)** – **Investigar** – **Modificar** – **Crear (Make)**
+
+Este patrón propone una progresión cuidadosamente guiada desde la comprensión hacia la producción, y constituye un ejemplo claro de aprendizaje activo estructurado.
+
+### Las cinco fases de PRIMM
+
+
+**1. Predecir**
+
+Las y los estudiantes observan un programa que ya existe y discuten qué creen que hará al ejecutarse. No escriben código ni lo ejecutan todavía: el foco está en activar conocimientos previos, formular hipótesis y explicitar modelos mentales. Esta etapa reduce la ilusión de comprensión y hace visibles ideas erróneas desde el inicio. 
+
+**2. Ejecutar (Run)**
+
+Luego, el programa se ejecuta y se compara el resultado real con las predicciones realizadas. El contraste inmediato entre expectativa y resultado genera retroalimentación rápida y promueve la revisión de los modelos mentales iniciales.
+
+**3. Investigar**
+
+En esta fase se analizan el código y su comportamiento con mayor profundidad. Se realizan actividades como trazar la ejecución paso a paso, explicar fragmentos en lenguaje natural, responder preguntas guiadas o identificar errores. El objetivo no es “que funcione”, sino entender por qué funciona. La investigación muestra que estas actividades de lectura y trazado son fundamentales para el aprendizaje de la programación.
+
+**4. Modificar**
+
+Una vez que el programa es comprendido, se realizan cambios controlados para alterar su comportamiento. Aquí comienza la transferencia de control: el código pasa de ser “de otra persona” a ser parcialmente propio. 
+
+**5. Crear (Make)**
+
+Finalmente, las y los estudiantes diseñan un programa nuevo que utiliza las mismas estructuras y conceptos, pero para resolver un problema diferente. Esta etapa apunta a la transferencia y generalización, y suele requerir más tiempo y apoyo, ya que implica integrar todo lo aprendido previamente.
+
+### Por qué PRIMM funciona
+
+PRIMM no es una técnica aislada, sino una síntesis de múltiples principios respaldados por la investigación:
+
+- Prioriza la lectura y comprensión de código antes de la escritura, una relación fuertemente asociada al éxito en programación.
+
+- Reduce la carga cognitiva, al trabajar con programas existentes y tareas acotadas en las primeras etapas.
+
+- Favorece el aprendizaje activo, ya que cada fase requiere que las y los estudiantes piensen, discutan, expliquen y tomen decisiones.
+
+- Integra el uso del lenguaje y la interacción social como herramientas centrales para construir comprensión, en línea con enfoques socioculturales del aprendizaje 
+
+
+Estudios en contextos escolares muestran que estudiantes que aprenden programación con PRIMM obtienen mejores resultados que quienes siguen enfoques más tradicionales, y que el patrón resulta especialmente valioso en aulas con niveles heterogéneos de conocimiento previo 
+
+Por eso, PRIMM funciona especialmente bien como ejemplo concreto de cómo los principios del aprendizaje activo pueden traducirse en actividades reales, particularmente en el contexto de la programación. No reemplaza a otras estrategias útiles de enseñanza, sino que las integra.  A continuación, revisamos seis estrategias respaldadas por la investigación que ayudan a aprender mejor y que pueden utilizarse tanto dentro de PRIMM como en muchas otras situaciones de enseñanza. Muchas de ellas se encuentran desarrolladas en más detalle en el sitio web [The Learning Scientists](http://www.learningscientists.org/). 
+
+
+## Estrategias basadas en evidencia
 
 ### Práctica Distribuida
 
-La primera estrategia es la práctica distribuida, o práctica espaciada. Cinco sesiones de estudio de dos horas son más efectivas que dos sesiones de cinco horas, y mucho más efectivas que una sesión apretada de 10 horas. 
+La primera estrategia es la práctica distribuida o práctica espaciada. Cinco sesiones de estudio de dos horas son más efectivas que dos sesiones de cinco horas, y mucho más efectivas que una sesión apretada de 10 horas. 
 
 Si bien no podemos controlar los hábitos de estudio de nuestros estudiantes, podemos incluir material enseñado previamente en cada clase nueva. 
 
@@ -88,45 +131,60 @@ Del mismo modo y como estudiante, es bueno repasar una clase el mismo día de co
 
 Espaciar las cosas puede ser una de las pocas ventajas de los formatos de clase tradicional sobre el aprendizaje en línea a demanda, porque el riesgo de clases asincrónicas es que nuestros estudiantes recién se expongan al material al final de la cursada.
 
-### Práctica de Recordar lo Aprendido
 
-El factor limitante de la memoria a largo plazo no es retener (qué se almacena) sino recordar (qué puede accederse). Nuestra segunda estrategia tiene que ver con la práctica de recuperación. 
+### Recuperar lo Aprendido
+
+El factor limitante de la memoria a largo plazo no es retener (qué la información se almacene) sino recordar (qué puede accederse). Nuestra segunda estrategia tiene que ver con la práctica de recuperación. 
 
 Esto parece obvio: **serás mejor recordando cosas si practicas recordarlas.**
 
 Pero es importante practicar recordar en un contexto realista. Si deseamos recuperar información para una evaluación de opción múltiple, practicaremos haciendo pruebas de opción múltiple; si deseamos recordar las reglas de sintaxis al programar, practicaremos recordarlas mientras programamos.
 
-Una manera de ejercitar las habilidades para recordar es resolver un mismo problema dos veces. La primera vez, completamente de memoria. Tras evaluar nuestro propio trabajo con una rúbrica, resolver el problema de nuevo pero usando material de apoyo, para evaluar qué tan bien pudimos recordar y aplicar lo aprendido.
+Una manera de ejercitar las habilidades para recordar es **resolver un mismo problema dos veces**. La primera vez, completamente de memoria. Tras evaluar nuestro propio trabajo con una rúbrica, resolver el problema de nuevo pero usando material de apoyo, para evaluar qué tan bien pudimos recordar y aplicar lo aprendido.
 
-Otro método es crear tarjetas de estudio. Las tarjetas físicas tienen una pregunta en un lado y la respuesta en el otro, y existen muchas aplicaciones para generarlas disponibles para teléfono móvil. Si estamos estudiando en grupo, intercambiar las tarjetas de estudio con colegas nos ayudará a descubrir ideas importantes que tal vez habíamos obviado o malinterpretado.
+Otro método es **crear tarjetas de estudio (flashcards)**. Las tarjetas físicas tienen una pregunta en un lado y la respuesta en el otro, y existen muchas aplicaciones para generarlas disponibles para teléfono móvil. Si estamos estudiando en grupo, intercambiar las tarjetas de estudio con colegas nos ayudará a descubrir ideas importantes que tal vez habíamos obviado o malinterpretado.
 
-- Un método más: leer-cubrir-recordar. Mientras leemos algo, cubrimos términos clave o secciones con notas adhesivas pequeñas. Cuando hayas terminado, volvemos a leer y vemos qué tan bien podemos adivinar las palabras cubiertas.
+Otro método muy útil es **leer-cubrir-recordar**. Mientras leemos algo, cubrimos términos clave o secciones con notas adhesivas pequeñas. Cuando hayas terminado, volvemos a leer y vemos qué tan bien podemos adivinar las palabras cubiertas.
 
 ### Elaboración
 
 La tercera estrategia es la elaboración. 
 
-Sabemos que enseñar algo es una excelente manera de aprenderlo y, en general, autoexplicarse las cosas o explicar a otra persona es una buena manera de fortalecer tu comprensión. 
+Sabemos que enseñar algo es una excelente manera de aprenderlo y, en general, autoexplicarse un tema o explicarselo a otra persona es una buena manera de fortalecer nuestra comprensión del mismo. 
 
 - Podemos explicar en voz alta un razonamiento. 
+
 ::::::::::::::::::::::::::::::::::::: instructor
-Quizás escucharon decir que explicarle a un patito de hule cómo funciona un programa, les ayuda a ustedes para comprenderlo
+
+Tal vez escucharon mencionar el **Rubber Duck Debugging (o “depuración con patito de hule”)**.
+
+¿En qué consiste?
+
+La idea es muy simple:
+
+Tomamos un objeto inanimado (tradicionalmente, un patito de hule 🦆).
+
+Le explicamos nuestro código en voz alta, línea por línea, asumiendo que el patito no sabe nada. Al intentar formular la explicación, nosotros mismos detectamos los errores, lagunas o suposiciones falsas.
+
+Por supuesto, el patito no hace nada.
+
+El efecto deseado ocurre porque explicar obliga a ordenar y hacer explícito el razonamiento, facilitando el detectar qué es lo que falla. 
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Una forma de implementar esto es hacer un seguimiento de cada pregunta en un cuestionario de práctica con una explicación detallada (propia) de por qué esa es la respuesta correcta y por qué otras no lo son. 
+- Podemos hacer un seguimiento de cada pregunta en un cuestionario de práctica con una explicación detallada (propia) de por qué esa es la respuesta correcta y por qué otras no lo son. Esto obliga a distinguir conceptos parecidos, identificar límites y precisar definiciones. Evita aprender **de memoria**.
 
-- Otra forma es comparar y contrastar información nueva con información vieja.
+
+- También, comparar y contrastar información nueva con información vieja, buscar similitudes, detectar diferencias y decidir cuándo aplicar cada cosa. De esa forma, la información nueva no se almacena aislada, se integra con lo que ya sabíamos. Genera más enlaces en la memoria a largo plazo y, por lo tanto, facilita la transferencia a nuevas situaciones y la recuperación. 
+
 
 ### Práctica Intercalada
 
 La cuarta estrategia es intercalar los temas de estudio. En vez de dominar un tema, luego el segundo y el tercero, alternamos las sesiones de estudio entre un tema y otro. 
 
-Mezclar el estudio de diferentes temas mejora el recuerdo posterior porque construye más enlaces de largo plazo en nuestro modelo mental.
+Mezclar el estudio de diferentes temas mejora el recuerdo posterior porque construye más enlaces de largo plazo en nuestro modelo mental. Aleatorizar el orden es mejor que seguir un patrón repetitivo. Pensemos en la letra de una canción: si siempre la practicamos en el mismo orden, solo podremos recuperarla en ese orden.
 
-Aleatorizar el orden es mejor que seguir un patrón repetitivo. Pensemos en la letra de una canción: si siempre la practicamos en el mismo orden, solo podremos recordarla en ese orden.
 
-> A-B-C-A-B-C es mejor que A-A-B-B-C-C
-> A-C-B-C-A-B es mejor que A-B-C-A-B-C
 
 ### Ejemplos Concretos
 
@@ -141,22 +199,23 @@ Intercalar ejemplos y definiciones ayuda a recordar mejor las definiciones.
 ### Codificación Dual
 
 La estrategia final es la codificación dual, que discutimos anteriormente. Las imágenes y las palabras son más eficaces en combinación que por sí solas, porque apelan a sistemas de procesamiento cerebrales diferentes. 
-
 Pero hay que tener cuidado al usar palabras e imágenes en simultáneo, porque el cerebro tiene que hacer un esfuerzo extra para interpretarlas.
+
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-Elijan una de las seis estrategias de aprendizaje y cuéntenle a su grupo cómo la usarían para aprender un tema.
+Elijan una de las seis estrategias de aprendizaje y cuéntenle a su grupo cómo la usarían para aprender un tema particular.
 
-Práctica distribuida
-Práctica de recordar lo aprendido
-Elaboración
-Práctica intercalada
-Ejemplos concretos
-Codificación dual
+- Práctica distribuida
+- Práctica de recordar lo aprendido
+- Elaboración
+- Práctica intercalada
+- Ejemplos concretos
+- Codificación dual
 
 Tiempo para el ejercicio: 10 minutos
-Pueden resumirlo en el documento.
+Pueden resumirlo en el documento compartido.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Resumen
