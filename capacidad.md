@@ -104,17 +104,27 @@ Por eso, existe una estrategia pedagógica llamada ejemplos desvanecidos. Esta c
 Primero, el instructor resuelve un problema paso a paso.
 
 (4x + 8)/2	=	5
+
 4x + 8	=	2 * 5
+
 4x + 8	=	10
+
   	4x	=	10 - 8
+
   	4x	=	2
+
    	  x	=	2/4
+
    	  x	= 	1/2
+
 
 Luego, se le pide al **grupo control** que resuelva este problema de inmediato. Deben recordar tanto el vocabulario de la aritmética básica como la "gramática" de la estrategia de solución.
 
+
 (2x + 8)/4	=	1
+
      x	    =	__
+
 
 A continuación, el **grupo con intervención** resuelve tres problemas diferentes, en orden. Cada uno de los problemas, presentados en este orden, resta andamios. Esto significa que como hay menos ayuda, hay que hacer más trabajo, pero así se refuerza su comprensión de la estrategia de resolución. El grupo con la intervención trabaja más, pero aprende más rápido y mejor.
 
@@ -160,10 +170,23 @@ Volvemos en 10 minutos.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Resumen hasta aquí
+
+Este mapa conceptual sintetiza varios de los conceptos vistos hasta el momento. Particularmente, cómo el aprendizaje está condicionado por una capacidad cognitiva limitada y cómo el diseño didáctico puede acompañar esa realidad. Al representar modelos mentales, los mapas conceptuales nos ayudan a diseñar lecciones que se ajusten a la memoria de corto plazo, reduzcan la carga cognitiva y favorezcan la construcción de conocimiento duradero. Estrategias como la fragmentación permiten ampliar efectivamente lo que podemos procesar, facilitando la codificación en la memoria de largo plazo y la formación de nuevos modelos mentales. En definitiva, enseñar bien no es decir más, sino organizar mejor.
+
+
 ![](fig/resumen-capacidad-mental.png){alt="Diagrama de flujo que muestra cómo los mapas conceptuales ayudan a diseñar lecciones que deben ajustarse a la capacidad limitada de la memoria de corto plazo. Esta capacidad puede incrementarse mediante la fragmentación, lo cual reduce la carga cognitiva. El pensamiento accede a la memoria de corto plazo, la cual a su vez codifica y recupera información desde la memoria de largo plazo. Esta memoria de largo plazo guarda modelos mentales, que son representados en mapas conceptuales. El pensamiento está limitado por la carga cognitiva, que se construye en este proceso general de aprendizaje y diseño instruccional."}
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- 
+- La memoria de trabajo tiene una capacidad limitada, y cuando se la sobrecarga, la comprensión se deteriora rápidamente.
+
+- En un mapa conceptual, cada concepto y cada relación cuentan como ítems que consumen capacidad cognitiva.
+
+- Fragmentar el contenido en porciones pequeñas y manejables reduce la carga cognitiva y mejora el aprendizaje.
+
+- El reconocimiento de patrones y la construcción de “fragmentos” permiten pensar y aprender cosas más complejas.
+
+- Estrategias como los mapas conceptuales y los ejemplos desvanecidos ayudan a diseñar lecciones alineadas con cómo funciona la cognición humana.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

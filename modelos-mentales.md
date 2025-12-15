@@ -163,15 +163,36 @@ Por ejemplo, podemos analizar el mapa mental de una usuaria de una biblioteca (s
 
 Y aquí está el modelo mental para la dirección de la biblioteca:
 
-![](fig/mapa-mental-direccion-biblioteca.png){alt=“Mapa conceptual sobre la dirección de una biblioteca: el Gobierno de la ciudad controla y paga por el Presupuesto; este paga por Programas y materiales, Personal e Instalaciones. El personal trabaja en las instalaciones y está gobernado por Sindicatos. Las Socias/os visitan las instalaciones y participan en los programas, que ocurren en dichas instalaciones.”}
+![](fig/mapa-mental-direccion-biblioteca.png){alt="Mapa conceptual sobre la dirección de una biblioteca: el Gobierno de la ciudad controla y paga por el Presupuesto; este paga por Programas y materiales, Personal e Instalaciones. El personal trabaja en las instalaciones y está gobernado por Sindicatos. Las socias o socios visitan las instalaciones y participan en los programas, que ocurren en dichas instalaciones."}
 
-Aquí hay un mapa conceptual que muestra nuestro modelo mental de los mapas conceptuales.
+Finalmente, aquí puedes ver un mapa conceptual que muestra nuestro modelo mental de los mapas conceptuales.
 
-![](fig/meta-mapa-conceptual.png){alt=“Diagrama meta-conceptual: un mapa conceptual representa un modelo mental, contiene nodos (conceptos) y enlaces (relaciones), los cuales habilitan recordar. El mapa conceptual también ayuda a diseñar una lección, que a su vez sigue los enlaces.”}
+![Diagrama meta-conceptual: un mapa conceptual representa un modelo mental, contiene nodos (conceptos) y enlaces (relaciones), los cuales habilitan recordar. El mapa conceptual también ayuda a diseñar una lección, que a su vez sigue los enlaces.](fig/meta-mapa-conceptual.png)
 
-Hay muchas formas de dibujar el modelo mental de alguien. Este se parece más a un árbol de decisión...
+La idea central es el **mapa conceptual**, que ocupa el lugar principal y se relaciona con otros elementos:
 
-![](fig/mapa-mental-manzanas.png){alt=“Mapa conceptual que parte del nodo manzana con la relación puede ser hacia tres colores: roja, amarilla y verde. De roja y amarilla sale la relación está hacia madura; de verde hacia inmadura. Otro camino señala que una manzana puede estar madura a menos que sea Granny Smith, conectando ese cultivar como excepción.”}
+- El **mapa conceptual representa un modelo mental**. Es decir, sirve para hacer explícita la forma en que una persona organiza y comprende un tema.
+
+- A su vez, **el mapa conceptual ayuda a diseñar una lección**, funcionando como una herramienta pedagógica para planificar la enseñanza.
+
+- El **mapa conceptual contiene nodos (conceptos) y enlaces (relaciones)**:
+
+  - Los nodos son los conceptos clave del tema.
+
+  - Los enlaces expresan las relaciones entre esos conceptos.
+
+- Las **relaciones habilitan recordar los conceptos**, ya que facilitan la comprensión y el almacenamiento en la memoria.
+
+- Finalmente, **la lección sigue los enlaces (relaciones)**; una buena secuencia didáctica se apoya en cómo se vinculan los conceptos y no solo en una lista de contenidos.
+
+_En conjunto, el diagrama muestra que los mapas conceptuales no solo organizan conceptos, sino que reflejan modelos mentales y sirven como base para diseñar y estructurar procesos de enseñanza y aprendizaje._
+
+
+
+
+Hay muchas formas distintas de representar el modelo mental de alguien. El que sigue se parece más a un árbol de decisión...
+
+![](fig/mapa-mental-manzanas.png){alt="Mapa conceptual que inicia con el nodo Manzana, del que parte la relación puede ser hacia los nodos Roja, Amarilla y Verde. De Roja y amarilla parte la relación está hacia el nodo Madura, mientras que de verde parte la relación está hacia el nodo inmadura. De inmadura parte el vínculo a menos que sea hacia Granny Smith, y de Granny Smith parte el vínculo puede estar hacia Madura."}
 
 En general, **un mapa conceptual organiza ideas o conceptos mediante palabras clave y relaciones jerárquicas o semánticas**.
 
@@ -183,11 +204,11 @@ En general, **un mapa conceptual organiza ideas o conceptos mediante palabras cl
 
 A veces, un **Diagrama de Venn** es más preciso. 
 
-![](fig/diagrama-1.png){alt=“Diagrama de Venn con círculos anidados que aclaran la geografía política de las islas británicas: el contorno mayor es British Isles; dentro, círculos para United Kingdom y Ireland. En el Reino Unido se incluye Great Britain, que contiene England, Scotland y Wales. Northern Ireland comparte intersección con Irlanda. Círculos aparte muestran Isle of Man y, al sudeste, Channel Islands con Guernsey y Jersey.”}
+![](fig/diagrama-1.png){alt="Diagrama de Venn con círculos anidados que aclaran la geografía política de las islas británicas: el contorno mayor es British Isles. Dentro, círculos para United Kingdom y Ireland. En el Reino Unido se incluye Great Britain, que contiene England, Scotland y Wales. Northern Ireland comparte intersección con Irlanda. Círculos aparte muestran Isle of Man y, al sudeste, Channel Islands con Guernsey y Jersey."}
 
 También podemos usar un **diagrama de flujo** que muestra una secuencia de acciones o etapas que ocurren en un orden determinado. Aquí tenemos un ejemplo de cómo es el flujo de un análisis de datos. 
 
-![](fig/diagrama-2.png){alt=“Flujo de trabajo de ciencia de datos dentro de un rectángulo grande titulado Programar. Una banda gris interna llamada Comprender encadena las etapas Importar → Ordenar → Transformar; de Transformar surgen flechas hacia Visualizar y Modelar que se retroalimentan entre sí, y una flecha de salida apunta a Comunicar.”}
+![](fig/diagrama-2.png){alt="Flujo de trabajo de ciencia de datos dentro de un rectángulo grande titulado Programar. Una banda gris interna llamada Comprender encadena las etapas Importar, Ordenar y Transformar. De Transformar surgen flechas hacia Visualizar y Modelar que se retroalimentan entre sí, y una flecha de salida apunta a Comunicar."}
 
 Lo que distingue a los mapas conceptuales de la mayoría de los demás esquemas es que etiquetan explícitamente las relaciones entre los conceptos.
 Esos enlaces no son decorativos: representan el camino que nos permite conectar el conocimiento que ya tenemos con el nuevo conocimiento que queremos construir.
@@ -224,7 +245,7 @@ Volvemos en 10 minutos
 
 Aquí hay un posible mapa conceptual para la fotosíntesis. El de ustedes podría ser muy diferente: podrían enfatizar diferentes elementos o estar pensando en ello desde el punto de vista de una audiencia diferente. Lo que esto hace es externalizar el proceso cognitivo: deja al descubierto el pensamiento de ustedes donde otras personas (y ustedes) pueden verlo.
 
-![](fig/mapa-fotosintesis.png){alt=“Mapa conceptual de síntesis sobre modelos mentales: una persona novata no tiene modelo mental, puede tener falsa confianza y se vuelve participante competente cuando desarrolla uno. El modelo mental representa un mapa conceptual, que contiene nodos (conceptos) y enlaces (relaciones) que habilitan recordar y ayuda a diseñar una lección que sigue esos enlaces. Para que sea útil, el modelo mental debe ser útil pero no necesita ser completamente correcto ni completo; además, se necesita para ser un participante competente.”}
+![](fig/mapa-fotosintesis.png){alt="Mapa conceptual de síntesis sobre modelos mentales: una persona novata no tiene modelo mental, puede tener falsa confianza y se vuelve participante competente cuando desarrolla uno. El modelo mental representa un mapa conceptual, que contiene nodos (conceptos) y enlaces (relaciones) que habilitan recordar y ayuda a diseñar una lección que sigue esos enlaces. Para que sea útil, el modelo mental debe ser útil pero no necesita ser completamente correcto ni completo; además, se necesita para ser un participante competente."}
 
 ## Resumen Hasta Aquí
 
@@ -234,7 +255,7 @@ Los modelos mentales deben ser útiles y no necesitan ser completos o correctos.
 
 Los mapas conceptuales se usan para representar un modelo mental por medio de nodos que representan conceptos y enlaces que representan relaciones. Las relaciones habilitan a recordar los conceptos. Estos mapas también ayudan a diseñar una lección siguiendo las relaciones.
 
-![](fig/mapa-resumen.png){alt=“Flujo de trabajo de ciencia de datos dentro de un rectángulo grande titulado Programar. Una banda gris interna llamada Comprender encadena las etapas Importar → Ordenar → Transformar; de Transformar surgen flechas hacia Visualizar y Modelar que se retroalimentan entre sí, y una flecha de salida apunta a Comunicar.”}
+![](fig/mapa-resumen.png){alt="Flujo de trabajo de ciencia de datos dentro de un rectángulo grande titulado Programar. Una banda gris interna llamada Comprender encadena las etapas Importar → Ordenar → Transformar; de Transformar surgen flechas hacia Visualizar y Modelar que se retroalimentan entre sí, y una flecha de salida apunta a Comunicar."}
 
 ## Progresión del mapa mental de novato a experto
 
@@ -242,11 +263,11 @@ Los mapas conceptuales también ayudan a explicar las diferencias entre los mapa
 
 Las personas novatas no tienen muchas conexiones entre conceptos.
 
-![](fig/persona-novata.png){alt=“Red fragmentada de hexágonos: A conecta solo con C; B y D están aislados sin conexiones; E se enlaza únicamente con F, y F solo con E. Existen escasos vínculos y la mayoría de los nodos quedan separados unos de otros.”}
+![](fig/persona-novata.png){alt="Red fragmentada de hexágonos: A conecta solo con C; B y D están aislados sin conexiones; E se enlaza únicamente con F, y F solo con E. Existen escasos vínculos y la mayoría de los nodos quedan separados unos de otros."}
 
 Las personas competentes tienen más conceptos y más conexiones entre los conceptos, pero pueden tomar varios pasos para pasar de lo que saben a lo que necesitan resolver.
 
-![](fig/persona-competente.png){alt=“Red de hexágonos con conexiones selectivas: A se enlaza con B mediante una arista; B se une a C, que a su vez conecta con D. El nodo D enlaza con C, E y J; E conecta con D y F; F se une a E y a J; J enlaza con D y con Q. Los grupos están relacionados por algunos puentes, pero la red no es completamente densa.”}
+![](fig/persona-competente.png){alt="Red de hexágonos con conexiones selectivas: A se enlaza con B mediante una arista; B se une a C, que a su vez conecta con D. El nodo D enlaza con C, E y J; E conecta con D y F; F se une a E y a J; J enlaza con D y con Q. Los grupos están relacionados por algunos puentes, pero la red no es completamente densa."}
 
 Las personas expertas tienen muchas más conexiones, por lo que su camino es más corto, de hecho, tan corto que a menudo pueden saltar de principio a fin en un solo paso. Las personas expertas pueden no tener más conceptos que una persona competente; la diferencia importante es la cantidad de conexiones.  
 
@@ -258,7 +279,7 @@ Pregunta para responder en el chat: ¿alguna vez vieron a una persona experta mi
 
 Esto también lleva al punto ciego de la persona experta: no puede explicar su razonamiento porque no hay razonamiento.
 
-![](fig/persona_experta.png){alt=“Diagrama en forma de colmena que muestra seis hexágonos etiquetados A – F densamente interconectados dentro de un contorno envolvente. El hexágono C ocupa el centro y se conecta con todos los demás; A y B están arriba unidos entre sí y con C; D y E aparecen a los costados conectados entre sí, con C y con F; F se ubica abajo y enlaza con C, D y E. El resultado es una malla cerrada con múltiples caminos redundantes.”}
+![](fig/persona_experta.png){alt="Diagrama en forma de colmena que muestra seis hexágonos etiquetados A – F densamente interconectados dentro de un contorno envolvente. El hexágono C ocupa el centro y se conecta con todos los demás; A y B están arriba unidos entre sí y con C; D y E aparecen a los costados conectados entre sí, con C y con F; F se ubica abajo y enlaza con C, D y E. El resultado es una malla cerrada con múltiples caminos redundantes."}
 
 ## No Eres Tus Estudiantes
 
