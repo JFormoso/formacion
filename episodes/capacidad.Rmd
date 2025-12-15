@@ -163,7 +163,7 @@ Y, finalmente, pedir que escriban el código completo desde cero, tal vez incorp
 A continuación, vemos un ejemplo de ejemplos desvanecidos en Python.Primero, presentamos el ejemplo completo, donde se puede observar cómo se define una función, cómo se usan los parámetros y cómo se devuelve un valor:
 
 
-```{python, echo=TRUE, eval=FALSE}
+```{python, echo=TRUE, eval=FALSE, python.reticulate = FALSE}
 
 def sumar_dos_numeros(a, b):
     """Suma dos números"""
@@ -176,7 +176,7 @@ print(suma3_5)
 
 Luego, desvanecemos los parámetros y la expresión de retorno, para centrar la atención en qué información necesita la función para operar y qué valor produce:
 
-```{python, echo=TRUE, eval=FALSE}
+```{python, echo=TRUE, eval=FALSE, python.reticulate = FALSE}
 
 def sumar_dos_numeros(____, ____):
     """Suma dos números"""
@@ -190,7 +190,7 @@ print(suma3_5)
 
 Finalmente, retiramos las palabras clave y las funciones principales, de modo que quienes aprenden deban reconstruir la estructura completa de la función y su uso, apoyándose en el patrón observado en los pasos anteriores:
 
-```{python, echo=TRUE, eval=FALSE}
+```{python, echo=TRUE, eval=FALSE, python.reticulate = FALSE}
 
 ____ sumar_dos_numeros(a, b):
     """Suma dos números"""
