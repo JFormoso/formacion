@@ -99,5 +99,5 @@ includes:
 lang: es
 
 # varnish
-varnish: 'metadocencia/varnish'
+varnish: 'JFormoso/varnish'
 
