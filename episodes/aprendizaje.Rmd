@@ -177,6 +177,44 @@ El efecto deseado ocurre porque explicar obliga a ordenar y hacer explícito el 
 
 - También, comparar y contrastar información nueva con información vieja, buscar similitudes, detectar diferencias y decidir cuándo aplicar cada cosa. De esa forma, la información nueva no se almacena aislada, se integra con lo que ya sabíamos. Genera más enlaces en la memoria a largo plazo y, por lo tanto, facilita la transferencia a nuevas situaciones y la recuperación. 
 
+::::::::::::::::::::::::::::::::: callout
+
+Crear un mapa conceptual del contenido es una forma muy potente de elaboración. 
+
+Cuando creamos un mapa conceptual, tenemos que:
+
+1. Seleccionar qué conceptos son relevantes.
+2. Organizarlos (qué va primero, qué depende de qué).
+3. Explicitar relaciones ("Causa", "requiere", "produce", "se usa para..").
+4. Comparar y jerarquizar ideas. 
+
+Activa la **autoexplicación:**
+
+Para decidir qué nodo va y cómo se conecta, la persona tiene que preguntarse:
+
+- ¿Qué significa esto exactamente?
+
+- ¿Por qué estos dos conceptos están relacionados?
+
+Al construir enlaces, se toman deciciones como:
+
+- ¿Esto es lo mismo o es distinto?
+
+- ¿Este concepto es un caso particular o uno general?
+
+- ¿Este enlace expresa causa, secuencia o condición?
+
+Promueve la integración de los conceptos nuevos, con el conocimiento previo:
+
+- Los conceptos nuevos se vinculan a nodos existentes. 
+
+- Las relaciones previas se refuerzan o se revisan y corrigen.
+
+- A veces aparecen contradicciones y nos obliga a resolverlas.
+
+
+:::::::::::::::::::::::::::::::::
+
 
 ### Práctica Intercalada
 
