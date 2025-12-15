@@ -23,6 +23,8 @@ Revisaremos elementos clave para el éxito de un curso practicando la retroalime
 
 ## Nos presentamos
 
+</br>
+
 ### MetaDocencia
 
 MetaDocencia es una organización sin fines de lucro donde trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos.
@@ -31,26 +33,29 @@ Construimos capacidades científicas y técnicas en forma responsable y con mira
 
 Trabajamos desde América Latina consolidando a la región en el mapa global de la investigación. Nos proponemos facilitar la conexión de profesionales en ciencia y técnica, promoviendo el intercambio de conocimientos y la colaboración. 
 
+
 #### Nuestros pilares de trabajo
 
-Llevamos adelante nuestra propuesta a partir de una serie de proyectos que se enmarcan en tres pilares de trabajo que están interconectados y forman un círculo virtuoso: Contextualización, Formación y Comunidad.
+Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos.
 
-- **Contextualización:** Adaptamos materiales, textos y recursos al español y al inglés.
-- **Formación:** Enseñamos y aprendemos en forma virtual y presencial. Nuestras clases son activas, con un enfoque pedagógico basado en evidencia.
-- **Comunidad:** Conectamos, intercambiamos y aprendemos con otras personas y organizaciones.
+- **[Impulsamos infraestructura](https://metadocencia.org/que-hacemos/#infra)** Promovemos infraestructura científica y tecnológica que soporta la producción, gestión y reutilización de conocimiento.
 
-![esquema circular que presenta los tres pilares de MetaDocencia: Contextualización, Formación y Comunidad.](fig/pilares_ES.jpg)
+- **[Formamos capacidades](https://metadocencia.org/que-hacemos/#formacion)** Creamos programas de aprendizaje basados en evidencia, que transforman el conocimiento en acción y fortalecen a la comunidad científica con competencias de impacto local.
 
-Si les interesa saber más sobre nosotros, pueden entrar a [nuestra web](https://www.metadocencia.org). También pueden suscribirte a nuestro [Newsletter](https://www.metadocencia.org/suscripcion/) y recibir todas las novedades.
+- **[Construimos comunidad](https://metadocencia.org/que-hacemos/#comunidad)** Fomentamos redes de apoyo y colaboración que trascienden disciplinas, instituciones y países, para crecer y visibilizar la ciencia desde América Latina hacia el mundo.
+
+
+Si les gustaría conocer más sobre nosotros, pueden ingresar a [nuestra web](https://www.metadocencia.org). También pueden suscribirte a nuestro [Newsletter](https://www.metadocencia.org/suscripcion/) y recibir todas las novedades.
+
 
 ### Docentes y equipo
 
 - **[Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/)** Co-Director Ejecutivo y Chair del Consejo Asesor. Desde 2008 realiza tareas docentes de grado, posgrado y extensión, en modalidad presencial y virtual, tanto en UNQ como en otras instituciones educativas y para comunidades de práctica. Instructor y entrenador de instructores en The Carpentries.
 
-- **[Laura Ación](https://www.metadocencia.org/authors/lacion/)** Co-Directora Ejecutiva. Investigadora adjunta del CONICET en la Universidad de Buenos Aires, donde dirige el Co-Laboratorio de Uso Responsable de Datos. Tiene más de dos décadas de experiencia ofreciendo servicios de consultoría y enseñanza. 
+- **[Laura Ación](https://www.metadocencia.org/authors/lacion/)** Co-Directora Ejecutiva. Investigadora adjunta del CONICET en la Universidad de Buenos Aires, donde Co-dirige el Laboratorio de Uso Responsable de Datos. Tiene más de dos décadas de experiencia ofreciendo servicios de consultoría y enseñanza. 
   
-- **[Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)** Coordinadora del área de MEdición de Impacto de MetaDocencia. Psicóloga cognitiva de la Universidad de Buenos Aires e investigadora asistente de CONICET. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Instructora certificada de RStudio y The Carpentries.
-  
+- **[Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)** Coordinadora del área de Medición de Impacto de MetaDocencia. Dra. en psicología cognitiva de la Universidad de Buenos Aires e investigadora adjunta de CONICET. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Instructora certificada de RStudio y The Carpentries.
+
 - **[Paz Miguez](https://www.metadocencia.org/authors/pazmiguez/)** Coordinadora de áreas Institucional y Formación. Licenciada en Ciencia Política, con una Maestría en Política Educativa y un Profesorado en Docencia Superior. Más de 15 años de experiencia, en el diseño, gestión y monitoreo de programas educativos.
   
 - **[Julián Buede](https://www.metadocencia.org/authors/jbuede/)** Equipo de Comunicación. Se especializa en formatos para contenidos audiovisuales educativos, especialmente en el ámbito de tutoriales y clases asincrónicas, con el objetivo de desarrollar formas creativas de presentar información.
@@ -71,7 +76,9 @@ comunidad amigable y respetuosa, y aunque en algunas ocasiones fallaremos, nuest
 
 Creemos muy firmemente que las personas aprenden mejor cuando aprenden juntas, por eso todos estos materiales están disponibles gratuitamente bajo la licencia Creative Commons - Attribution - ShareAlike license. Te alentamos a que los compartas, adaptes y reuses, siempre que incluyas un enlace a la fuente original y distribuyas tu propio material bajo la misma licencia para ayudar a otras personas.
 
-![licencia CC BY-SA 4.0.](fig/by-sa.png)
+<div style="text-align: right;">
+  <img src="fig/by-sa.png" alt="licencia CC BY-SA 4.0" width="150px">
+</div>
 
 
 ---
