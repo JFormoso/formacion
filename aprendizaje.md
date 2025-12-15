@@ -258,10 +258,17 @@ Pueden resumirlo en el documento compartido.
 
 ## Resumen
 
-![](fig/resumen-aprendizaje.png){alt="Mapa conceptual sobre estrategias de aprendizaje y niveles de experiencia. A la izquierda, se listan estrategias de aprendizaje: práctica distribuida, práctica de recordar lo aprendido, práctica intercalada, elaboración, ejemplos concretos y codificación dual, todas incluidas bajo el nodo "estrategias de aprendizaje", que son ayudadas por el "aprendizaje activo". A la derecha, se muestra que el "aprendizaje activo" es mejor que el "aprendizaje pasivo" y forma "conexiones". Las conexiones son un indicador del nivel de experticia: una "persona novata" no tiene conexiones, una "persona competente" tiene pocas, y una "persona experta" tiene muchas."}
+![](fig/resumen-aprendizaje.png){alt="Mapa conceptual sobre estrategias de aprendizaje y niveles de experiencia. A la izquierda, se listan estrategias de aprendizaje: práctica distribuida, práctica de recordar lo aprendido, práctica intercalada, elaboración, ejemplos concretos y codificación dual, todas incluidas bajo el nodo estrategias de aprendizaje, que son ayudadas por el aprendizaje activo. A la derecha, se muestra que el aprendizaje activo es mejor que el 
+aprendizaje pasivo y forma conexiones. Las conexiones son un indicador del nivel de experticia: una persona novata no tiene conexiones, una "persona competente" tiene pocas, y una persona experta tiene muchas"}
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- 
+- El aprendizaje es más efectivo cuando las personas participan activamente, usando, explicando y poniendo a prueba lo que aprenden, en lugar de solo recibir información.
+
+- Las estrategias de aprendizaje activo ayudan a que la información se codifique mejor en la memoria a largo plazo y sea más fácil de recuperar y transferir.
+
+- Patrones como PRIMM muestran cómo estructurar actividades que guían progresivamente desde la comprensión hacia la creación, reduciendo la carga cognitiva.
+
+- Incorporar estrategias basadas en evidencia y promover la metacognición permite que estudiantes y docentes tomen decisiones más conscientes sobre cómo aprender mejor.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
