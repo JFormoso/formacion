@@ -89,7 +89,7 @@ Esto es lo que Ana piensa que quiere aprender. Lo más importante de esta lista 
 
 La parte final de sus estudiantes tipo describe cualquier otra cosa que deba tenerse en cuenta. ¿Tienen problemas de audición? ¿Necesitan terminar a las 6:00 pm puntual porque cuidan menores o personas mayores? ¿Van a usar una máquina bloqueada que no les permitirá instalar software? Cualquiera de estas cosas podría desviar la enseñanza, por lo que es mejor pensar en ellas por adelantado.
 
-- Muy incómoda hablando delante de un  grupo
+- Se siente muy incómoda hablando delante de un  grupo
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
