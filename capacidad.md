@@ -93,48 +93,118 @@ Como docentes, podemos usar esto para reducir la carga cognitiva y acelerar el a
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Ejemplos Desvanecidos
 
-Al aprender una habilidad técnica, como programar o trabajar con datos, es habitual comenzar observando ejemplos completamente resueltos. Estos ejemplos ayudan a entender cómo se estructura una solución y qué pasos seguir. Pero si siempre estudiamos ejemplos ya resueltos, no desarrollamos las habilidades necesarias para resolver por cuenta propia los desafíos que se presentan en la práctica.
+## Ejemplos desvanecidos
 
-Por eso, existe una estrategia pedagógica llamada ejemplos desvanecidos. Esta consiste en presentar una serie de ejercicios que, al principio, muestran todos los pasos necesarios para resolver un problema, pero que progresivamente van omitiendo partes de la solución. Así, se invita a quienes aprenden a completar esos pasos por sí mismos, reflexionando sobre lo que hacen y por qué lo hacen. Esto promueve una práctica llamada autoexplicación, que fortalece la comprensión y la autonomía.
+Cuando aprendemos una habilidad técnica, como resolver problemas matemáticos o escribir programas, suele ser muy útil comenzar con ejemplos completamente resueltos. Estos ejemplos permiten entender cómo se estructura una solución sin tener que tomar todas las decisiones al mismo tiempo. Desde el punto de vista de la carga cognitiva, esto es clave: la persona que aprende puede concentrarse en qué pasos se siguen y por qué, en lugar de tener que decidir simultáneamente la estrategia, el orden de los pasos y los detalles técnicos.
 
-### Ejemplo
+Sin embargo, si el aprendizaje se limita a observar soluciones completas, aparece un problema: se puede reconocer la solución cuando se la ve, pero no necesariamente reproducirla de manera autónoma. Para abordar esta dificultad, se utiliza la estrategia de ejemplos desvanecidos. Esta consiste en presentar una secuencia de ejercicios en los que la solución está inicialmente completa, pero en cada nuevo ejercicio se eliminan algunos pasos, de forma gradual y deliberada.
 
-Primero, el instructor resuelve un problema paso a paso.
+Por ejemplo, en matemáticas, al enseñar a resolver ecuaciones lineales, el primer ejemplo puede mostrar todos los pasos:
 
-(4x + 8)/2	=	5
-
-4x + 8	=	2 * 5
-
-4x + 8	=	10
-
-  	4x	=	10 - 8
-
-  	4x	=	2
-
-   	  x	=	2/4
-
-   	  x	= 	1/2
+|Resolver: (4x + 8) / 2 = 5   |
+|-----------------------------|
+|4x + 8 = 10                  |
+|4x = 2                       |
+|x = 1/2                      |
 
 
-Luego, se le pide al **grupo control** que resuelva este problema de inmediato. Deben recordar tanto el vocabulario de la aritmética básica como la "gramática" de la estrategia de solución.
+En el siguiente ejercicio, se puede pedir a las personas que completen solo algunos pasos:
+
+|Resolver: (2x + 8) / 4 = 1   |
+|-----------------------------|
+|2x + 8 = ___                 |
+|2x = ___                     |
+|x = ___                      |
 
 
-(2x + 8)/4	=	1
+Finalmente, se propone un ejercicio similar sin pasos intermedios, donde la persona debe aplicar por sí misma la estrategia aprendida. En este proceso, el desvanecimiento guía la atención hacia la estructura del procedimiento (aislar la incógnita, aplicar operaciones inversas) en lugar de hacia cada cálculo puntual.
 
-     x	    =	__
+Un proceso similar podemos aplicar en la programación. Supongamos que estamos enseñando a escribir una función que calcule el promedio de una lista de números. En un primer ejemplo, el código puede estar completamente desarrollado y comentado:
 
 
-A continuación, el **grupo con intervención** resuelve tres problemas diferentes, en orden. Cada uno de los problemas, presentados en este orden, resta andamios. Esto significa que como hay menos ayuda, hay que hacer más trabajo, pero así se refuerza su comprensión de la estrategia de resolución. El grupo con la intervención trabaja más, pero aprende más rápido y mejor.
 
-| Ejercicio 1                          | Ejercicio 2                   | Ejercicio 3                  |
-|-------------------------------------|-------------------------------|------------------------------|
-| (3x - 1) * 3   =  12                | (5x + 1) * 3   =  4           | (2x + 8)/4   =   1           |
-| 3x - 1       =  __ / __            | 5x + 1       =  __           | x           =   __          |
-| 3x - 1       =  4                  | 5x           =  __           | x           =   __ / 3      |
-| 3x           =  __ + __            | x            =  __           | x           =   __          |
-| 3x           =  __                |                               |                              |
+``` r
+library(ggplot2)
+
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) 
+```
+
+
+Luego, en un ejemplo desvanecido, se puede presentar el mismo código con partes faltantes:
+
+
+
+``` r
+library(ggplot2)
+
+ggplot(______, aes(x = ____, y = _____)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) 
+```
+
+
+
+``` r
+library(ggplot2)
+
+ggplot(_____, aes(x = ____, y = _____)) +
+  geom______() +
+  geom______(method = "lm", se = FALSE) 
+```
+
+Y, finalmente, pedir que escriban el código completo desde cero, tal vez incorporando otras variables o funciones. De esta manera, quienes aprenden no solo recuerdan líneas de código, sino que construyen un patrón reutilizable: en este caso la estructura para realizar un gráfico con r y ggplot2. 
+
+A continuación, vemos un ejemplo de ejemplos desvanecidos en Python.Primero, presentamos el ejemplo completo, donde se puede observar cómo se define una función, cómo se usan los parámetros y cómo se devuelve un valor:
+
+
+
+``` python
+
+def sumar_dos_numeros(a, b):
+    """Suma dos números"""
+    return a + b
+
+suma3_5 = sumar_dos_numeros(5, 3)
+print(suma3_5)
+
+```
+
+Luego, desvanecemos los parámetros y la expresión de retorno, para centrar la atención en qué información necesita la función para operar y qué valor produce:
+
+
+``` python
+
+def sumar_dos_numeros(____, ____):
+    """Suma dos números"""
+    return _______
+
+suma3_5 = sumar_dos_numeros(5, 3)
+print(suma3_5)
+
+```
+
+Finalmente, retiramos las palabras clave y las funciones principales, de modo que quienes aprenden deban reconstruir la estructura completa de la función y su uso, apoyándose en el patrón observado en los pasos anteriores:
+
+
+``` python
+
+____ sumar_dos_numeros(a, b):
+    """Suma dos números"""
+    _____ a + b
+
+suma3_5 = sumar_dos_numeros(5, 3)
+_____(suma3_5)
+
+```
+
+
+Los ejemplos desvanecidos funcionan como un andamiaje gradual: ofrecen mucho apoyo al comienzo y lo retiran progresivamente. Esto permite que las personas pasen de observar soluciones a pensar como quienes resuelven el problema, construyendo fragmentos y modelos mentales que luego pueden transferirse a nuevas situaciones.
+
+
+
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -143,9 +213,7 @@ Respecto de lo que hablamos en la unidad de carga cognitiva: ¿cómo les parece 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-En parte, se debe a que los ejemplos desvanecidos reducen la carga cognitiva pertinente al permitirles centrarse en los pasos sin tratar simultáneamente de tener que elegir una estrategia.
-
-Los ejemplos desvanecidos también alientan a tus estudiantes a formar los fragmentos correctos al llamar su atención sobre patrones útiles.
+Desde la perspectiva de la carga cognitiva, los ejemplos desvanecidos reducen la carga extrínseca (no es necesario decidir todo al mismo tiempo) y favorecen la carga pertinente, es decir, el esfuerzo mental que realmente contribuye al aprendizaje. Además, al invitar a completar pasos faltantes, fomentan la autoexplicación, que fortalece la codificación en la memoria de largo plazo.
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
