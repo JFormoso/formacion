@@ -176,7 +176,7 @@ print(suma3_5)
 
 Luego, desvanecemos los parámetros y la expresión de retorno, para centrar la atención en qué información necesita la función para operar y qué valor produce:
 
-```{python}
+```{python, echo=TRUE, eval=FALSE}
 
 def sumar_dos_numeros(____, ____):
     """Suma dos números"""
@@ -190,7 +190,7 @@ print(suma3_5)
 
 Finalmente, retiramos las palabras clave y las funciones principales, de modo que quienes aprenden deban reconstruir la estructura completa de la función y su uso, apoyándose en el patrón observado en los pasos anteriores:
 
-```{python}
+```{python, echo=TRUE, eval=FALSE}
 
 ____ sumar_dos_numeros(a, b):
     """Suma dos números"""
