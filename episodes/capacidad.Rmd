@@ -160,7 +160,7 @@ ggplot(_____, aes(x = ____, y = _____)) +
 
 Y, finalmente, pedir que escriban el código completo desde cero, tal vez incorporando otras variables o funciones. De esta manera, quienes aprenden no solo recuerdan líneas de código, sino que construyen un patrón reutilizable: en este caso la estructura para realizar un gráfico con r y ggplot2. 
 
-A continuación, vemos un ejemplo de ejemplos desvanecidos en Python.Primero, presentamos el ejemplo completo, donde se puede observar cómo se define una función, cómo se usan los parámetros y cómo se devuelve un valor:
+A continuación, vemos un ejemplo de ejemplos desvanecidos en Python. Primero, presentamos el ejemplo completo, donde se puede observar cómo se define una función, cómo se usan los parámetros y cómo se devuelve un valor:
 
 
 ```{python, echo=TRUE, eval=FALSE, python.reticulate = FALSE}
