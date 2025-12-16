@@ -1,5 +1,5 @@
 ---
-title: 'Capacidad'
+title: 'Capacidad de memoria'
 teaching: 10
 exercises: 2
 ---
