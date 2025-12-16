@@ -1,5 +1,5 @@
 ---
-title: 'Evaluación formativa, sumativa y retroalimentación'
+title: 'Evaluación formativa y sumativa'
 teaching: 10
 exercises: 2
 ---
