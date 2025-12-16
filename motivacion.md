@@ -45,7 +45,7 @@ Aprender a tocar el ukelele porque siempre has querido es intrínseco; aprender 
 
 > Controlo mi vida
 
-Primero y más importante, las personas adultas quieren tener el control de sus propias vidas; quieren decidir qué van a hacer, qué van a aprender. La autoeficacia es lo que hace que la capacitación en línea autorregulada, cursos como Coursera o Edx sean tan populares: permite a las personas (bueno, a quienes tienen el privilegio de tener tiempo libre) aprender lo que quieren y cuando quieren. El live coding ayuda a que nuestra audiencia  se sienta más en control sobre lo que está aprendiendo, a diferencia de una presentación como esta donde solo observan. Las evaluaciones formativas también.
+Primero y más importante, las personas adultas quieren tener el control de sus propias vidas; quieren decidir qué van a hacer, qué van a aprender. La autoeficacia es lo que hace que la capacitación en línea autorregulada, cursos como Coursera o Edx, sean tan populares: permite a las personas (bueno, a quienes tienen el privilegio de tener tiempo libre) aprender lo que quieren y cuando quieren. El live coding ayuda a que nuestra audiencia  se sienta más en control sobre lo que está aprendiendo, a diferencia de una presentación como esta donde solo observan. Las evaluaciones formativas también.
 
 ### Positiva: Utilidad
 
@@ -138,28 +138,37 @@ La accesibilidad ayuda a todas las personas. También ayuda a llegar a la mayor 
 
 ## Inclusión
 
-Ahora tenemos un marco para entender por qué es importante la inclusión en el aula. Este gráfico les puede resultar conocido, muestra cómo la participación de mujeres en la informática ha disminuido desde la década de 1980, incluso mientras aumentaba la participación en otras profesiones y disciplinas científicas, tecnológicas, ingenierías y matemáticas. Las mujeres no decidieron repentinamente en 1984 que no estaban interesadas en ciencias de la computación; en cambio, factores como la comercialización de computadoras como juguetes para niños crearon un círculo vicioso: las mujeres no se sentían bienvenidas, por lo que menos de ellas ingresaron al campo, por lo que las recién llegadas se sintieron aún menos bienvenidas, y así sucesivamente.
+Ahora tenemos un marco para entender por qué es importante la inclusión en el aula. 
 
 ![](fig/inclusion-grafico.png){alt="Gráfico de líneas titulado “¿Qué pasó con las mujeres en las Ciencias de la Computación?”. Muestra el porcentaje de títulos de grado otorgados a mujeres entre 1965 y 2010 en cuatro campos de estudio: Escuela de Medicina, Escuela de Derecho, Ciencias físicas y Ciencias de la Computación. Todas las disciplinas muestran un crecimiento sostenido en participación femenina, excepto Ciencias de la Computación, que después de alcanzar un pico cercano al 37% a mediados de los años 80, desciende de manera continua hasta estabilizarse cerca del 18% hacia 2010."}
+Este gráfico les puede resultar conocido, muestra cómo la participación de mujeres en la informática ha disminuido desde la década de 1980, incluso mientras aumentaba la participación en otras profesiones y disciplinas científicas, tecnológicas, ingenierías y matemáticas. Las mujeres no decidieron repentinamente en 1984 que no estaban interesadas en ciencias de la computación; en cambio, factores como la comercialización de computadoras como juguetes para niños crearon un círculo vicioso: las mujeres no se sentían bienvenidas, por lo que menos de ellas ingresaron al campo, por lo que las recién llegadas se sintieron aún menos bienvenidas, y así sucesivamente.
 
-## No Existe el Gen del Geek
+### No existe el “gen del geek”
 
-1. Solo el 5,8% de la distribución de calificaciones en 778 cursos de primer año pasa una prueba estadística para más de una moda.
-2. Docentes que creen que algunas personas entienden y otras no, tienen más probabilidades de etiquetar las distribuciones ambiguas de "calificación" como bimodales.
-3. Las creencias docentes son profecías autocumplidas.
+Existe una creencia muy extendida en informática: que las personas que aprenden programación se dividen naturalmente en dos grupos, quienes “entienden” y quienes no, y que esa diferencia responde a una habilidad innata. Esta idea suele apoyarse en la supuesta bimodalidad de las calificaciones. Sin embargo, la evidencia empírica no respalda esta interpretación.
 
-Realizar evaluaciones sin identificar a quién pertenece cada respuesta puede ayudar a reducir desigualdades, como las brechas de género. Cuando quienes enseñan creen, aunque sea de forma inconsciente, que ciertas personas tienen más potencial que otras, tienden a apoyarlas más.
+En un estudio a gran escala, Patitsas y colegas (2016) analizaron 778 distribuciones de calificaciones finales en cursos universitarios de Ciencias de la Computación y encontraron que solo el 5.8 % de ellas pasa pruebas estadísticas formales de multimodalidad. En la enorme mayoría de los casos, las notas siguen distribuciones unimodales (a menudo normales o sesgadas), no dos “picos” que representen grupos distintos de estudiantes.
 
-Esto no solo afecta a las mujeres: en distintos contextos, también puede impactar a personas de grupos étnicos subrepresentados o a quienes tienen discapacidades, especialmente visuales, si las herramientas y materiales no están diseñados para ser accesibles.
+**¿Por qué, entonces, persiste la idea de la bimodalidad?**
 
-Como mostraron Patitsas y colegas en 2016, muchas de estas diferencias de trato se explican por sesgos de confirmación: interpretamos la información de forma que refuerce nuestras creencias previas, incluso sin darnos cuenta.
+En un segundo estudio, los mismos autores observaron que **las creencias docentes influyen fuertemente en cómo se interpretan datos ambiguos.** Docentes que creen que algunas personas están naturalmente predispuestas a la computación tienen más probabilidades de etiquetar distribuciones ruidosas o poco claras como bimodales, incluso cuando esas distribuciones fueron generadas a partir de datos normales. Además, cuando se les recuerda explícitamente que se dice que las notas en computación son bimodales, esta tendencia se intensifica.
 
-## Lo que pueden hacer
+Este fenómeno es un ejemplo claro de **sesgo de confirmación**; tendemos a interpretar la información de manera que refuerce nuestras creencias previas. Con el tiempo, esto puede generar un bucle de retroalimentación, en el que creer en la habilidad innata lleva a ver bimodalidad; ver bimodalidad refuerza la creencia en la habilidad innata.
 
-1. No usar un modelo deficitario
-2. Ser buen/a aliado/a
+**Estas creencias no son inocuas.** Cuando quienes enseñan asumen, aunque sea de forma inconsciente, que algunas personas tienen más potencial que otras, tienden a apoyarlas más, exigirles más y ofrecerles mejores oportunidades de aprendizaje.  Así, **las creencias docentes pueden convertirse en profecías autocumplidas.** Prácticas como corregir evaluaciones de forma anónima pueden ayudar a reducir estas desigualdades. 
 
-Lo más importante es no utilizar un modelo deficitario para pensar en la justicia. No diga que "ellas" tienen que incluirse o que "ellos" necesitan un apoyo especial: eso implica que las personas que son víctimas de la injusticia deben hacer un trabajo extra para superar o eliminar esa injusticia. Este taller del enlace provee muchas formas prácticas de hacer esto. La charla plenaria es un resumen excelente para pensar sobre inclusión.
+El impacto no se limita a las mujeres, aunque la evidencia muestra que los campos que valoran la “brillantez innata” tienen menor participación femenina. En distintos contextos, estas dinámicas también afectan a personas de grupos étnicos subrepresentados y a personas con discapacidades, especialmente cuando las herramientas, evaluaciones y materiales no están diseñados desde una perspectiva de accesibilidad.
+
+Cuestionar el gen del geek no es solo una discusión teórica, es una condición necesaria para construir entornos de aprendizaje más justos, inclusivos y efectivos.
+
+### ¿Qué podemos hacer como docentes?
+
+1. Evitar un modelo deficitario
+2. Actuar como aliadas y aliados
+
+Lo más importante es evitar un modelo deficitario al pensar la justicia y la inclusión. En lugar de decir que “ellas tienen que integrarse” o que “ellos necesitan apoyo especial”, conviene revisar qué barreras estamos creando o manteniendo desde nuestras prácticas, evaluaciones y materiales. El enfoque deficitario desplaza el problema hacia quienes sufren la injusticia e implica, explícita o implícitamente, que deben hacer un esfuerzo adicional para adaptarse a un sistema que no fue diseñado para ellos.
+
+Ser buenas aliadas y buenos aliados implica asumir la responsabilidad de identificar y remover esas barreras, en lugar de esperar que las personas afectadas las superen por su cuenta. Existen numerosos recursos y experiencias que muestran cómo hacerlo de manera concreta; por ejemplo, el [taller enlazado aquí](https://frameshiftconsulting.com/ally-skills-workshop/) de [Valerie Autora](https://bowshock.nl/) ofrece estrategias prácticas para repensar la inclusión en el aula, y [esta charla plenaria](https://www.youtube.com/watch?v=EhNisFJPfrs) es un excelente punto de partida para reflexionar sobre este enfoque.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -171,19 +180,44 @@ Lo más importante es no utilizar un modelo deficitario para pensar en la justic
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Si Tienes que Echar a Alguien
+### ¿Cómo pedirle a alguien que se retire de la clase?
 
-0. Anuncien el Código de Conducta al comienzo de tus curso
-1. Consigan a alguien como testigo
-2. Diganle al resto que echaste a la persona problemática
-3. Escribanlo
-4. Hablen con una persona amiga
+En ocasiones poco frecuentes, una persona puede tener comportamientos que vulneran el Código de Conducta o afectan la seguridad y el bienestar del grupo. Estas situaciones suelen ser difíciles de manejar, especialmente si no estamos preparadas o preparados. Sin embargo, no intervenir cuando es necesario suele generar más daño que actuar.
 
-¿Alguna vez tuvieron que echar a alguien de sus clases? Muchas veces no estamos preparadas o preparados para hacerlo; lo peor que puede pasar es no actuar cuando era necesario. Es imprescindible conocer si sus instituciones tienen un mecanismo establecido para esto, ¿tiene normas? ¿Tiene Pautas de Convivencia? ¿Y si no, puedo imponer el uso de uno en mi clase? 
+Por eso, es fundamental conocer de antemano qué mecanismos existen en tu institución:
+¿hay un Código de Conducta o pautas de convivencia?
+¿existe un procedimiento formal para estas situaciones?
+Y si no lo hay, ¿es posible establecer reglas claras para tu curso?
 
-Al mismo tiempo es necesario que todas las personas conozcan esas normas y las acepten. Esto ya minimiza la probabilidad de que alguien no se comporte o tenga una actividad intolerante hacia otra persona. 
+#### Prevención (antes de que ocurra un conflicto)
 
-Si tienen que echar a alguien de sus clases, sigan estos pasos (el paso 0 sucede al comienzo de la clase de manera tal que nadie pueda decir “Pero yo no sabía”)
+Paso 0. Comunicar las reglas desde el inicio
+Al comienzo del curso, compartan explícitamente el Código de Conducta o las pautas de convivencia, expliquen por qué existen y asegúrense de que todas las personas las conozcan y las acepten. Esto reduce significativamente la probabilidad de comportamientos problemáticos y evita situaciones del tipo “yo no sabía que esto no estaba permitido”.
+
+#### Si la situación lo amerita
+
+Si una persona persiste en un comportamiento que vulnera las normas, y luego de advertencias claras la situación no mejora, puede ser necesario pedirle que se retire de la clase. En ese caso:
+
+1. Intenta no actuar en soledad
+
+Siempre que sea posible, cuenten con otra persona como testigo (co-docente, ayudante, coordinador/a). Esto protege a todas las partes involucradas.
+
+2. Cuida al grupo
+
+Informen al resto de la clase que la situación fue atendida y que se actuó siguiendo las normas acordadas, sin dar detalles innecesarios ni exponer a la persona involucrada. El objetivo es preservar la confianza y la sensación de seguridad del grupo.
+
+3. Dejar registro por escrito
+
+Documenten lo ocurrido: qué pasó, cuándo, qué normas se vulneraron y qué acciones se tomaron. Esto es importante tanto para el seguimiento institucional como para su propio cuidado profesional.
+
+4. Buscar apoyo después
+
+Estas situaciones son emocionalmente demandantes. Hablarlo con una persona de confianza o con colegas ayuda a procesar lo ocurrido y a no cargar con la situación en soledad.
+
+#### Una aclaración importante
+
+Pedirle a alguien que se retire de una clase no es un castigo, sino una medida para proteger el espacio de aprendizaje y a las personas que participan en él. Tener reglas claras y un procedimiento acordado no hace el aula más rígida sino más segura, justa e inclusiva.
+
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -194,7 +228,7 @@ Comenten en grupos sobre alguna vez en que hayan visto a un/a instructor/a actua
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-![](fig/resumen_motivacion.png){alt="Diagrama conceptual sobre la motivación en contextos de aprendizaje. En el centro se encuentra el nodo “motivación”, que puede ser intrínseca (predice el aprendizaje) o extrínseca (no lo predice). La motivación ocurre tanto en clase como fuera de clase, e incluye la inclusión. La motivación positiva se relaciona con autoeficacia, utilidad y comunidad. La motivación negativa se vincula con imprevisibilidad, injusticia e indiferencia. La inclusión no debe basarse en el modelo de déficit, y debe estar apoyada por aliadas/os y un código de conducta. Este esquema muestra cómo distintos factores afectan la motivación, sus efectos en el aprendizaje y la importancia de una inclusión sostenida."}
+![](fig/resumen-motivacion.png){alt="Diagrama conceptual sobre la motivación en contextos de aprendizaje. En el centro se encuentra el nodo “motivación”, que puede ser intrínseca (predice el aprendizaje) o extrínseca (no lo predice). La motivación ocurre tanto en clase como fuera de clase, e incluye la inclusión. La motivación positiva se relaciona con autoeficacia, utilidad y comunidad. La motivación negativa se vincula con imprevisibilidad, injusticia e indiferencia. La inclusión no debe basarse en el modelo de déficit, y debe estar apoyada por aliadas/os y un código de conducta. Este esquema muestra cómo distintos factores afectan la motivación, sus efectos en el aprendizaje y la importancia de una inclusión sostenida."}
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
