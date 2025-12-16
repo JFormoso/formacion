@@ -184,12 +184,22 @@
                   <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         Resumen y agenda
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#descripci%C3%B3n-del-curso">Descripción del curso</a></li>
+<li><a href="#nos-presentamos">Nos presentamos</a></li>
+<li><a href="#antes-de-empezar">Antes de empezar</a></li>
+<li><a href="#contacto">📬 Contacto</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
 
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -334,11 +344,9 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><h1 class="schedule-heading">Resumen y agenda</h1>
       
-<div class="section level1">
-<h1 id="formación-para-enseñar">Formación para enseñar<a class="anchor" aria-label="anchor" href="#formaci%C3%B3n-para-ense%C3%B1ar"></a></h1>
-<div class="section level2">
-<h2 id="descripción-del-curso">Descripción del curso<a class="anchor" aria-label="anchor" href="#descripci%C3%B3n-del-curso"></a></h2>
-<p>El curso “Formación para enseñar” está diseñado para personas que
+
+<section><h2 class="section-heading" id="descripción-del-curso">Descripción del curso<a class="anchor" aria-label="anchor" href="#descripci%C3%B3n-del-curso"></a></h2>
+<hr class="half-width"><p>El curso “Formación para enseñar” está diseñado para personas que
 enseñan o quieren enseñar programación y ciencias de datos, pero que
 rara vez han recibido una capacitación práctica sobre cómo se enseña y
 cómo aprenden las personas estos temas. En este curso, adquirirás
@@ -427,21 +435,71 @@ fundamentales para hacerlo).</li>
 <p>El taller tiene una duración total de 16 horas, incluyendo los
 intervalos, distribuidas en 2 días de 8 horas o 4 días de 4 horas cada
 uno. A continuación tienes un ejemplo de cronograma:</p>
-<p>|Día 1 |<br>
-|Hora |Tema | |9:00 |Bienvenidos | |9:30 |Construir habilidad con
-práctica | |10:00 |¿Cómo aprenden las personas? | |10:30 |Recreo |
-|11:00 |Modelos mentales | |12:30 |Almuerzo | |13:30 |Carga cognitiva y
-memoria | |14:30 |Evaluación y feedback | |15:30 |Recreo | |16:00
-|Evaluación y feedback | |16:30 |Explicación del proceso de
-certificación | |17:00 |Final del día 1 |</p>
-<p>|Día 2 | |Hora |Tema | |9:00 |Introducción y recapitulación | |9:30
-|Definiendo tu audiencia y tus resultados esperados |<br>
-|10:30 |Recreo | |11:00 |Motivación y desmotivación |<br>
-|12:00 |Simulación de entrenamiento 1 | |12:45 |Final del día 2 |</p>
-<p>|Día 3 | |Hora |Tema | |9:00 |Programación en vivo y enseñar en línea
-| |9:45 |Buenas y malas prácticas | |10:30 |Recreo | |11:00 |Simulación
-de entrenamiento 2 | |11:30 |Planificación de cursos | |12:15
-|Conclusiones y certificacion | |12:45 |Final del día 3 |</p>
+<div class="section level4">
+<h4 id="día-1">Día 1<a class="anchor" aria-label="anchor" href="#d%C3%ADa-1"></a></h4>
+<table class="table"><thead><tr class="header"><th>Hora</th>
+<th>Tema</th>
+</tr></thead><tbody><tr class="odd"><td>9:00</td>
+<td>Bienvenidos</td>
+</tr><tr class="even"><td>9:30</td>
+<td>Construir habilidad con práctica</td>
+</tr><tr class="odd"><td>10:00</td>
+<td>¿Cómo aprenden las personas?</td>
+</tr><tr class="even"><td>10:30</td>
+<td>Recreo</td>
+</tr><tr class="odd"><td>11:00</td>
+<td>Modelos mentales</td>
+</tr><tr class="even"><td>12:30</td>
+<td>Almuerzo</td>
+</tr><tr class="odd"><td>13:30</td>
+<td>Carga cognitiva y memoria</td>
+</tr><tr class="even"><td>14:30</td>
+<td>Evaluación y feedback</td>
+</tr><tr class="odd"><td>15:30</td>
+<td>Recreo</td>
+</tr><tr class="even"><td>16:00</td>
+<td>Evaluación y feedback</td>
+</tr><tr class="odd"><td>16:30</td>
+<td>Explicación del proceso de certificación</td>
+</tr><tr class="even"><td>17:00</td>
+<td>Final del día 1</td>
+</tr></tbody></table></div>
+<div class="section level4">
+<h4 id="día-2">Día 2<a class="anchor" aria-label="anchor" href="#d%C3%ADa-2"></a></h4>
+<table class="table"><thead><tr class="header"><th>Hora</th>
+<th>Tema</th>
+</tr></thead><tbody><tr class="odd"><td>9:00</td>
+<td>Introducción y recapitulación</td>
+</tr><tr class="even"><td>9:30</td>
+<td>Definiendo tu audiencia y tus resultados esperados</td>
+</tr><tr class="odd"><td>10:30</td>
+<td>Recreo</td>
+</tr><tr class="even"><td>11:00</td>
+<td>Motivación y desmotivación</td>
+</tr><tr class="odd"><td>12:00</td>
+<td>Simulación de entrenamiento 1</td>
+</tr><tr class="even"><td>12:45</td>
+<td>Final del día 2</td>
+</tr></tbody></table></div>
+<div class="section level4">
+<h4 id="día-3">Día 3<a class="anchor" aria-label="anchor" href="#d%C3%ADa-3"></a></h4>
+<table class="table"><thead><tr class="header"><th>Hora</th>
+<th>Tema</th>
+</tr></thead><tbody><tr class="odd"><td>9:00</td>
+<td>Programación en vivo y enseñar en línea</td>
+</tr><tr class="even"><td>9:45</td>
+<td>Buenas y malas prácticas</td>
+</tr><tr class="odd"><td>10:30</td>
+<td>Recreo</td>
+</tr><tr class="even"><td>11:00</td>
+<td>Simulación de entrenamiento 2</td>
+</tr><tr class="odd"><td>11:30</td>
+<td>Planificación de cursos</td>
+</tr><tr class="even"><td>12:15</td>
+<td>Conclusiones y certificacion</td>
+</tr><tr class="odd"><td>12:45</td>
+<td>Final del día 3</td>
+</tr></tbody></table></div>
 </div>
 <div class="section level3">
 <h3 id="certificación">Certificación<a class="anchor" aria-label="anchor" href="#certificaci%C3%B3n"></a></h3>
@@ -454,10 +512,8 @@ programación en vivo, que será evaluada según su claridad, manejo del
 tiempo y aplicación de buenas prácticas. Te daremos más detalles sobre
 este ítem durante el curso.</li>
 </ul></div>
-</div>
-<div class="section level2">
-<h2 id="nos-presentamos">Nos presentamos<a class="anchor" aria-label="anchor" href="#nos-presentamos"></a></h2>
-<p></p>
+</section><section><h2 class="section-heading" id="nos-presentamos">Nos presentamos<a class="anchor" aria-label="anchor" href="#nos-presentamos"></a></h2>
+<hr class="half-width"><p></p>
 <div class="section level3">
 <h3 id="metadocencia">MetaDocencia<a class="anchor" aria-label="anchor" href="#metadocencia"></a></h3>
 <p>MetaDocencia es una organización sin fines de lucro donde trabajamos
@@ -528,10 +584,8 @@ bibliotecas académicas y como profesional independiente en diversos
 proyectos digitales, desempeñando roles de administración y garantizando
 la calidad de accesibilidad.</p></li>
 </ul></div>
-</div>
-<div class="section level2">
-<h2 id="antes-de-empezar">Antes de empezar<a class="anchor" aria-label="anchor" href="#antes-de-empezar"></a></h2>
-<div class="section level3">
+</section><section><h2 class="section-heading" id="antes-de-empezar">Antes de empezar<a class="anchor" aria-label="anchor" href="#antes-de-empezar"></a></h2>
+<hr class="half-width"><div class="section level3">
 <h3 id="pautas-de-convivencia">Pautas de convivencia<a class="anchor" aria-label="anchor" href="#pautas-de-convivencia"></a></h3>
 <p>Estas son nuestras <a href="https://doi.org/10.5281/zenodo.12534195" class="external-link">pautas de
 convivencia</a>. Nos ayudan a fomentar un ambiente abierto, seguro y
@@ -554,10 +608,8 @@ propio material bajo la misma licencia para ayudar a otras personas.</p>
 <div style="text-align: right;">
 <figure><img src="../fig/by-sa.png" alt="licencia CC BY-SA 4.0" width="150px" class="figure mx-auto d-block"></figure></div>
 </div>
-</div>
-<div class="section level2">
-<h2 id="contacto">📬 Contacto<a class="anchor" aria-label="anchor" href="#contacto"></a></h2>
-<p>¿Tienes dudas? Escríbenos a:<br>
+</section><section><h2 class="section-heading" id="contacto">📬 Contacto<a class="anchor" aria-label="anchor" href="#contacto"></a></h2>
+<hr class="half-width"><p>¿Tienes dudas? Escríbenos a:<br>
 📧 <a href="mailto:formacion@metadocencia.org" class="email">formacion@metadocencia.org</a></p>
 <p>Puedes encontrar más materiales y recursos en:<br>
 🌐 <a href="https://www.metadocencia.org" class="external-link uri">https://www.metadocencia.org</a></p>
@@ -565,10 +617,7 @@ propio material bajo la misma licencia para ayudar a otras personas.</p>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</div>
-</div>
-
-      <section id="schedule"><table class="table table schedule table-striped" role="presentation"><tbody><tr><td></td><td><a href="#setup">Configuración</a></td><td> Descargar los archivos necesarios para la lección</td>
+</section><section id="schedule"><table class="table table schedule table-striped" role="presentation"><tbody><tr><td></td><td><a href="#setup">Configuración</a></td><td> Descargar los archivos necesarios para la lección</td>
           </tr><tr><td>
 <span class="visually-hidden">Duration: </span>00h 00m
 </td>
