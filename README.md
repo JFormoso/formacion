@@ -48,24 +48,28 @@ El taller tiene una duración total de 16 horas, incluyendo los intervalos, dist
 A continuación tienes un ejemplo de cronograma:
 
 
-|Día 1                                                  |  
-|Hora         |Tema                                     |
-|9:00         |Bienvenidos                              |
-|9:30         |Construir habilidad con práctica         |
-|10:00        |¿Cómo aprenden las personas?             |
-|10:30        |Recreo                                   |
-|11:00        |Modelos mentales                         |
-|12:30        |Almuerzo                                 |
-|13:30        |Carga cognitiva y memoria                |
-|14:30        |Evaluación y feedback                    |
-|15:30        |Recreo                                   |
-|16:00        |Evaluación y feedback                    |
-|16:30        |Explicación del proceso de certificación |
-|17:00        |Final del día 1                          |
+#### Día 1
+
+| Hora  | Tema |
+|-------|------|
+| 9:00  | Bienvenidos |
+| 9:30  | Construir habilidad con práctica |
+| 10:00 | ¿Cómo aprenden las personas? |
+| 10:30 | Recreo |
+| 11:00 | Modelos mentales |
+| 12:30 | Almuerzo |
+| 13:30 | Carga cognitiva y memoria |
+| 14:30 | Evaluación y feedback |
+| 15:30 | Recreo |
+| 16:00 | Evaluación y feedback |
+| 16:30 | Explicación del proceso de certificación |
+| 17:00 | Final del día 1 |
 
 
-|Día 2                                                            | 
+#### Día 2
+
 |Hora         |Tema                                               |
+|-------------|---------------------------------------------------|
 |9:00         |Introducción y recapitulación                      |
 |9:30         |Definiendo tu audiencia y tus resultados esperados |  
 |10:30        |Recreo                                             |
@@ -73,8 +77,10 @@ A continuación tienes un ejemplo de cronograma:
 |12:00        |Simulación de entrenamiento 1                      |
 |12:45        |Final del día 2                                    |
 
-|Día 3                                                  |
+#### Día 3                                                  
+
 |Hora         |Tema                                     |
+|-------------|-----------------------------------------|
 |9:00         |Programación en vivo y enseñar en línea  |
 |9:45         |Buenas y malas prácticas                 |
 |10:30        |Recreo                                   |
@@ -82,8 +88,6 @@ A continuación tienes un ejemplo de cronograma:
 |11:30        |Planificación de cursos                  |
 |12:15        |Conclusiones y certificacion             |
 |12:45        |Final del día 3                          |
-
-
 
 
 ## Certificación
