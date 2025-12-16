@@ -163,11 +163,11 @@ Por ejemplo, podemos analizar el mapa mental de una usuaria de una biblioteca (s
 
 Y aquí está el modelo mental para la dirección de la biblioteca:
 
-![](fig/mapa-mental-direccion-biblioteca.png){alt="Mapa conceptual sobre la dirección de una biblioteca: el Gobierno de la ciudad controla y paga por el Presupuesto; este paga por Programas y materiales, Personal e Instalaciones. El personal trabaja en las instalaciones y está gobernado por Sindicatos. Las socias o socios visitan las instalaciones y participan en los programas, que ocurren en dichas instalaciones."}
+![Mapas conceptuales tomados de Teching Tech Together de Greg Wilson.](fig/mapa-mental-direccion-biblioteca.png){alt="Mapa conceptual sobre la dirección de una biblioteca: el Gobierno de la ciudad controla y paga por el Presupuesto; este paga por Programas y materiales, Personal e Instalaciones. El personal trabaja en las instalaciones y está gobernado por Sindicatos. Las socias o socios visitan las instalaciones y participan en los programas, que ocurren en dichas instalaciones."}
 
 Finalmente, aquí puedes ver un mapa conceptual que muestra nuestro modelo mental de los mapas conceptuales.
 
-![Diagrama meta-conceptual: un mapa conceptual representa un modelo mental, contiene nodos (conceptos) y enlaces (relaciones), los cuales habilitan recordar. El mapa conceptual también ayuda a diseñar una lección, que a su vez sigue los enlaces.](fig/meta-mapa-conceptual.png)
+![](fig/meta-mapa-conceptual.png){alt="Diagrama meta-conceptual: un mapa conceptual representa un modelo mental, contiene nodos (conceptos) y enlaces (relaciones), los cuales habilitan recordar. El mapa conceptual también ayuda a diseñar una lección, que a su vez sigue los enlaces."}
 
 La idea central es el **mapa conceptual**, que ocupa el lugar principal y se relaciona con otros elementos:
 
